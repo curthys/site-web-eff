@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: brown;
+}
+#carte{
+    width: 700px;
+    margin: 0 auto;
+    background-color: red;
+    text-align: center;
+    align-content: center;
+
+
+}
+ul li{
+    list-style-type: none;
+}
+h3{
+    color: rgb(0, 38, 255);
+}
+p{
+   font-size: 20px;
+   color: blueviolet;
+}
+img{
+    max-width: 400px;
+    height: auto;
+}
